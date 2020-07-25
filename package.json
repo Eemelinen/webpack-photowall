@@ -1,7 +1,7 @@
 {
-  "name": "summer20-lab-gallery",
+  "name": "Photowall planner",
   "version": "1.0.0",
-  "description": "## Salt Gallery",
+  "description": "## Photowall planner",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saltams/summer20-lab-gallery.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saltams/summer20-lab-gallery/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/saltams/summer20-lab-gallery#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
